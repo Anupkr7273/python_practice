@@ -1,0 +1,6 @@
+compile to byte code:it is not a machinhe code, it is just a python specific interpretation which is platform independent and runs faster because all the interpretaion and debugging is already done,
+.pyc file if formed in __pycache__ folder
+python VM(virtual machine) - runs the code 
+cpython - standard impletation , jpython, iron python,stack less, pypy  --versions
+mutable
+immutable- creates memory link , is value is changed, in memory another object is created and then linked with the variable, the other variable becomes a junk 
